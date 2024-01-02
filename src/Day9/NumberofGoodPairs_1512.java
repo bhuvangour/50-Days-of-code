@@ -1,5 +1,5 @@
 package Day9;
-
+import java.util.*;
 public class NumberofGoodPairs_1512 {
 	public static int numIdenticalPairs(int[] nums) {
 
