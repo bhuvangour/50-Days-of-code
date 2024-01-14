@@ -29,6 +29,6 @@ public class SortVowelsInAString_2785 {
     }
 
     public static void main(String[] args) {
-        System.out.println(sortVowels("shashwat"));
+        System.out.println(sortVowels("Bhuvan"));
     }
 }
