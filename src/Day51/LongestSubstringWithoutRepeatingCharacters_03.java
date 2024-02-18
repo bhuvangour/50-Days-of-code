@@ -17,7 +17,6 @@ public class LongestSubstringWithoutRepeatingCharacters_03 {
 	                start++;
 	            }
 	        }
-
 	        return ans;
 	        
 	    }
